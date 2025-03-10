@@ -37,7 +37,7 @@
         "jquery-lazy": "^1.7.11",
         "jquery-waypoints": "^2.0.5",
         "jquery.counterup": "^2.1.0",
-        "magnific-popup": "^1.1.0",
+        "magnific-popup": "^1.2.0",
         "summernote": "^0.8.18",
         "turbolinks": "^5.2.0"
     }
