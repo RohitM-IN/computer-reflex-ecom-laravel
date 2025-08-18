@@ -29,7 +29,7 @@
     "dependencies": {
         "bootstrap-icons": "^1.5.0",
         "cropperjs": "^1.5.12",
-        "datatables.net": "^1.11.2",
+        "datatables.net": "^1.13.11",
         "imagesloaded": "^4.1.4",
         "isotope-layout": "^3.0.6",
         "jquery-confirm": "^3.3.4",
